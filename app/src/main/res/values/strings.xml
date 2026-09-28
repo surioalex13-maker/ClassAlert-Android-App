@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClassAlert</string>
+    <string name="load_button">Download & Save Document</string>
+    <string name="load_cached">Load Cached Document</string>
+    <string name="delete_cache">Delete Cached File</string>
+    <string name="title">ClassAlert - Document Reader</string>
+    <string name="downloading">Downloading...</string>
+    <string name="reading">Reading document...</string>
+    <string name="document_info">Document Information</string>
+</resources>
